@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "script_manager.h": "c"
+  },
+  "dotnet.defaultSolution": "Scripter.sln"
+}
